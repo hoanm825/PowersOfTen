@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cd5dc5bf44fcc31499235a433b723525
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraReference: {instanceID: 0}
+  - group1: {instanceID: 0}
+  - group2: {instanceID: 0}
+  - group3: {instanceID: 0}
+  - pickupSound: {fileID: 8300000, guid: 31b735e22173e8d4c9fec142068bbe30, type: 3}
+  - sizeUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
